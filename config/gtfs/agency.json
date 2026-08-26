@@ -1,6 +1,6 @@
 {
     "target_route_type_id": 3,
-    "default_color": "055b4A",
+    "default_color": "055B4A",
     "default_color_comment": "GREEN (from website CSS)",
     "default_color_enabled": true,
     "default_strings_cleaner_enabled": true,
